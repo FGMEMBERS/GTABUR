@@ -285,7 +285,7 @@
     </animation>
 <animation>
  <type>material</type>
-  <object-name>Lights</object-name>
+  <object-name>LIghts</object-name>
 <condition>
 <greater-than>
             <property>/sim/time/sun-angle-rad</property>
